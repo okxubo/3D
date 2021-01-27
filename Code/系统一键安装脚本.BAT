@@ -14,9 +14,7 @@ echo get AmCAP.exe D:\STA\AmCAP.exe>>D:\STA\f.i
 echo get PureCodec20201225.exe D:\STA\PureCodec.exe>>D:\STA\f.i
 echo get LosslessCut-win32-x64.7z D:\STA\LosslessCut.7z>>D:\STA\f.i
 echo get wepe_64.exe D:\STA\Wepe.exe>>D:\STA\f.i
-echo get Everything-1.4.1.935.x64-Setup.exe D:\STA\Everything.exe>>D:\STA\f.i
-echo get TeamViewerQS.exe D:\STA\TeamViewerQS.exe>>D:\STA\f.i
-echo get npp.7.7.1.Installer.x64.exe D:\STA\Npp.exe>>D:\STA\f.i
+echo get Everything-1.4.1.1005.x64-Setup.exe D:\STA\Everything.exe>>D:\STA\f.i
 echo get "D:\76.0.3809.100_chrome_installer.exe" D:\STA\Chrome.exe>>D:\STA\f.i
 echo get NDP452-KB2901907-x86-x64-AllOS-ENU.exe D:\STA\NDP452.exe>>D:\STA\f.i
 echo bye>>D:\STA\f.i
