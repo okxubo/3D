@@ -1,5 +1,5 @@
 (cls
-@echo =====Ò½ÁÆÓ°ÏñÏµÍ³×Ô¶¯°²×°ÖĞ,ÇëÄÍĞÄµÈ´ı°²×°Íê³É=====
+@echo =====åŒ»ç–—å½±åƒç³»ç»Ÿè‡ªåŠ¨å®‰è£…ä¸­,è¯·è€å¿ƒç­‰å¾…å®‰è£…å®Œæˆ=====
 @echo off
 echo.
 D:
@@ -11,7 +11,7 @@ echo get STA.7z D:\STA\STA.7z>>D:\STA\f.i
 echo get Hash.exe D:\STA\Hash.exe>>D:\STA\f.i
 echo get geek.exe D:\STA\Geek.exe>>D:\STA\f.i
 echo get AmCAP.exe D:\STA\AmCAP.exe>>D:\STA\f.i
-echo get PureCodec20190801.exe D:\STA\PureCodec.exe>>D:\STA\f.i
+echo get PureCodec20201225.exe D:\STA\PureCodec.exe>>D:\STA\f.i
 echo get LosslessCut-win32-x64.7z D:\STA\LosslessCut.7z>>D:\STA\f.i
 echo get wepe_64.exe D:\STA\Wepe.exe>>D:\STA\f.i
 echo get Everything-1.4.1.935.x64-Setup.exe D:\STA\Everything.exe>>D:\STA\f.i
@@ -84,7 +84,7 @@ taskkill /F /IM StikyNotifier.exe
 copy "D:\STA\StikyNotifier.exe" "C:\Program Files (x86)\Langrs\MMS\" /y
 echo.
 echo.
-@echo =====Restart£¡=====
+@echo =====Restartï¼=====
 @echo off
 echo.
 echo d:>D:\Res.bat
