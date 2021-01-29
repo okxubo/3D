@@ -92,4 +92,4 @@ echo cd \STA>>D:\Res.bat
 echo del *.lnk,*.ini,*.dll,*.ttf,*.7z,FontReg.exe,MMS.exe,StikyNotifier.exe,"vc_redist.x64.exe","vc_redist.x86.exe","C:\Users\Public\Desktop\*.lnk",C:\Users\Administrator\Desktop\*.BAT >>D:\Res.bat
 echo shutdown -r -t 0 >>D:\Res.bat
 call D:\Res.bat
-)2>C:\Users\Administrator\Desktop\eder.log
+)2>C:\Users\Administrator\Desktop\lo.g
