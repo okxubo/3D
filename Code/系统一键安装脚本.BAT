@@ -10,6 +10,7 @@ echo get 7z1900-x64.exe D:\STA\7z.exe>>D:\STA\f.i
 echo get STA.7z D:\STA\STA.7z>>D:\STA\f.i
 echo get Hash.exe D:\STA\Hash.exe>>D:\STA\f.i
 echo get geek.exe D:\STA\Geek.exe>>D:\STA\f.i
+echo get dbeaver-ce-latest-x86_64-setup.exe D:\STA\dbeaver.exe>>D:\STA\f.i
 echo get AmCAP.exe D:\STA\AmCAP.exe>>D:\STA\f.i
 echo get PureCodec20201225.exe D:\STA\PureCodec.exe>>D:\STA\f.i
 echo get LosslessCut-win32-x64.7z D:\STA\LosslessCut.7z>>D:\STA\f.i
@@ -59,6 +60,7 @@ call "D:\STA\vc_redist.x86.exe" /q
 call "D:\STA\vcredist_x64.exe" /q
 call "D:\STA\vcredist_x86.exe" /q
 call "D:\STA\PureCodec.exe" /S
+call "D:\STA\dbeaver.exe" /S /allusers
 echo.
 echo.
 @echo 4.Database installation...
